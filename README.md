@@ -9,7 +9,9 @@
 - `assets/logo.svg`, `assets/logo-light.svg`: логотип для светлого и тёмного фона
 - `assets/favicon.svg`, `assets/favicon.ico`, `assets/apple-touch-icon.png`: иконки
 
-Значения в квадратных скобках (`[ЦЕНА]`, `[ВАШ ТЕЛЕФОН]` и т. п.) это заглушки, их нужно заменить реальными данными. Пока сайт закрыт от индексации тегом `noindex` в `index.html`.
+Сейчас на сайте демо-данные: объекты, цены, телефон и реквизиты условные, их нужно заменить реальными. Пока сайт закрыт от индексации тегом `noindex` в `index.html`.
+
+Фото в `assets/img/` взяты с Unsplash по бесплатной лицензии Unsplash License (авторы: Danilo Rios, taufiq triadi, deborah cortelazzi, Huy Nguyen, Jacques Dillies, Patrick Perkins). Перед запуском их нужно заменить реальными фото объектов.
 
 Локальный просмотр:
 
